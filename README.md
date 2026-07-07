@@ -15,7 +15,7 @@ Public GitHub Pages site for the ValueCam iOS app.
 
 ## Releases
 
+- **Build 113 (1.2.0)** — pending App Store: faster valuations, PDF valuation reports, share-card fixes, UX polish
 - **Build 112 (1.1.0)** — live: Refine, POWER Refine, PDF, Share, eBay links
-- **Build 113** — coming soon: performance, UX polish, faster launch
 
 Source code for the app lives in the private [ValueCam](https://github.com/AppDev6666/ValueCam) repository.
