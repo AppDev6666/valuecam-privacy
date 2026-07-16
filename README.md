@@ -15,6 +15,7 @@ Public GitHub Pages site for the ValueCam iOS app.
 
 ## Releases
 
+- **Build 114 (1.2.1)** — coming soon: POWER Refine fallback and cleaner screens when ads are unavailable
 - **Build 113 (1.2.0)** — live: faster valuations, PDF valuation reports, share-card fixes, UX polish
 - **Build 112 (1.1.0)** — Refine, POWER Refine, PDF, Share, eBay links
 
